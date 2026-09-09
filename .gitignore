@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+files/command.wav
+models/whisper/*.pt
